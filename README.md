@@ -1,3 +1,3 @@
-# k8s相关知识
-* [k8s](k8s/目录.md)
-* [kubebuilder](kubebuilder/目录.md)
+* [k8s](k8s/catalog.md)
+* [kubebuilder](kubebuilder/catalog.md)
+* [code](code/catalog.md)
